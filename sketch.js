@@ -7,10 +7,10 @@ function setup() {
     let p = p5.Vector.random2D();
     let v = p.copy();
     p.setMag(random(100, 400));
-    v.setMag(random(1, 20));
+    v.setMag(random(1, 10));
     v.rotate(PI/2);
-    let m = random(1, 30);
-    bodies.push(new Body(p, v, m));
+    let m = random(1, 5);
+    bodies.push(new Body(p, v, m, i));
   }
   
   background(0);
