@@ -6,7 +6,7 @@ Enjoyed watching a [CodingTrain](https://www.youtube.com/c/TheCodingTrain) video
 
 ## TODO
 
-- [ ] Add collisions
+- [x] Add collisions
 
 ## Running project
 
@@ -17,3 +17,5 @@ http-serve
 then connect locally
 
 or just work on in p5js editor
+
+![Peek 2022-03-01 20-21](https://user-images.githubusercontent.com/7353543/156282749-c9eb5529-d9bc-41cf-9070-f4011cb44bfd.gif)
